@@ -4,16 +4,14 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-<p>
-Hi there, my name is Mirza Elaaf Shuja a Data Scientist passionate about the industrial applications of Machine Learning and Artificial Intelligence.
-I possess an excellent understanding of Machine Learning, Deep Learning and Computer Vision algorithms and has worked on projects related to Unsupervised Image to Image Translation (CycleGANs) and Facial Emotion Recognition (Haar Cascade+CNNs).
+Hi there, my name is Mirza Elaaf Shuja a Data Scientist passionate about the industrial applications of Machine Learning and Artificial Intelligence.<br>
+I possess an excellent understanding of Machine Learning, Deep Learning and Computer Vision algorithms and has worked on projects related to Unsupervised Image to Image Translation (CycleGANs) and Facial Emotion Recognition (Haar Cascade+CNNs).<br>
 Elaaf is a  cares about code quality, effieicient model architecture and reliable model deployment.
-</p>
 
 
 <p>I also like to swim and jog as much as i can.</p>
 
-###Skills
+### Skills
 
 <ul class="skill-list">
 	<li>Python
@@ -30,7 +28,7 @@ Elaaf is a  cares about code quality, effieicient model architecture and reliabl
 	<li>Git</li>
 </ul>
 
-###Projects
+### Projects
 
 <ul>
 	<li><a href="https://elaafshuja.github.io/archives/GenderSwap Unsupervised Image to Image Translation using Attention Guided Cycle GANS.pdf">GenderSwap Unsupervised Image to Image Translation using Attention Guided Cycle GANS</a></li>
