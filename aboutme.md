@@ -31,6 +31,6 @@ Elaaf is a  cares about code quality, effieicient model architecture and reliabl
 ### Projects
 
 <ul>
-	<li><a href="https://elaafshuja.github.io/archives/GenderSwap Unsupervised Image to Image Translation using Attention Guided Cycle GANS.pdf">GenderSwap Unsupervised Image to Image Translation using Attention Guided Cycle GANS</a></li>
-	<li><a href="https://elaafshuja.github.io/archives/Emotion Detection from Facial Expressions Using Haar Cascade Face Detection and mini-Xception.pdf">Emotion Detection from Facial Expressions Using Haar Cascade Face Detection and mini-Xceoption</a></li>
+	<li><a href="https://elaaf.github.io/archives/GenderSwap Unsupervised Image to Image Translation using Attention Guided Cycle GANS.pdf">GenderSwap Unsupervised Image to Image Translation using Attention Guided Cycle GANS</a></li>
+	<li><a href="https://elaaf.github.io/archives/Emotion Detection from Facial Expressions Using Haar Cascade Face Detection and mini-Xception.pdf">Emotion Detection from Facial Expressions Using Haar Cascade Face Detection and mini-Xceoption</a></li>
 </ul>
