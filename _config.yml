@@ -1,11 +1,9 @@
 # --- General options --- #
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://elaafshuja.github.io"
-baseurl: ""
 
 # Name of website
-title: "Hi ! I'm Elaaf"
+title: Elaaf Shuja
 
 # Short description of your site
 description: Data Scientist
