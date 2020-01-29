@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-Hi there, my name is Mirza Elaaf Shuja a Data Scientist passionate about the industrial applications of Machine Learning and Artificial Intelligence.<br>
+Hi there, my name is Mirza Elaaf Shuja a Data Scientist passionate about the industrial applications of Machine Learning and Artificial Intelligence.<br><br>
 I possess an excellent understanding of Machine Learning, Deep Learning and Computer Vision algorithms and has worked on projects related to Unsupervised Image to Image Translation (CycleGANs) and Facial Emotion Recognition (Haar Cascade+CNNs).<br>
 Elaaf is a  cares about code quality, effieicient model architecture and reliable model deployment.
 
@@ -18,19 +18,15 @@ Elaaf is a  cares about code quality, effieicient model architecture and reliabl
 	<ul class="skill-list">
 	<li>TensorFlow</li>
 	<li>Pytorch</li>
-	<li>Pandas</li>
-	<li>Sklearn</li>
-	<li>Numpy</li>
 	</ul>
 	</li>
 	<li>C/C++</li>
-	<li>Javascript</li>
 	<li>Git</li>
 </ul>
 
 ### Projects
 
 <ul>
-	<li><a href="https://elaaf.github.io/archives/GenderSwap Unsupervised Image to Image Translation using Attention Guided Cycle GANS.pdf">GenderSwap Unsupervised Image to Image Translation using Attention Guided Cycle GANS</a></li>
-	<li><a href="https://elaaf.github.io/archives/Emotion Detection from Facial Expressions Using Haar Cascade Face Detection and mini-Xception.pdf">Emotion Detection from Facial Expressions Using Haar Cascade Face Detection and mini-Xceoption</a></li>
+	<li><a href="https://elaaf.github.io/archives/GenderSwap_CycleGANs.pdf">GenderSwap Unsupervised Image to Image Translation using Attention Guided Cycle GANS</a></li>
+	<li><a href="https://elaaf.github.io/archives/FaceEmotion_mini-Xception.pdf">Emotion Detection from Facial Expressions Using Haar Cascade Face Detection and mini-Xceoption</a></li>
 </ul>
