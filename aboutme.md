@@ -5,7 +5,7 @@ subtitle: Why you'd want to hire me !
 ---
 
 Hi there, my name is Mirza Elaaf Shuja a Data Scientist passionate about the industrial applications of Machine Learning and Artificial Intelligence.<br><br>
-I possess an excellent understanding of Machine Learning, Deep Learning and Computer Vision algorithms and have worked on projects related to Unsupervised Image to Image Translation (CycleGANs) and Facial Emotion Recognition (Haar Cascade+CNNs).<br>
+I possess an excellent understanding of Machine Learning, Deep Learning and Computer Vision algorithms.<br>
 I care about code quality, effieicient model architecture and reliable model deployment.
 
 
