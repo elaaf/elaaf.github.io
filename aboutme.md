@@ -18,6 +18,7 @@ I care about code quality, effieicient model architecture and reliable model dep
 	<ul class="skill-list">
 	<li>TensorFlow</li>
 	<li>Pytorch</li>
+	<li>OpenCV</li>
 	</ul>
 	</li>
 	<li>C/C++</li>
