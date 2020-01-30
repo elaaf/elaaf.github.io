@@ -6,7 +6,7 @@ subtitle: Why you'd want to hire me !
 
 Hi there, my name is Mirza Elaaf Shuja a Data Scientist passionate about the industrial applications of Machine Learning and Artificial Intelligence.<br><br>
 I possess an excellent understanding of Machine Learning, Deep Learning and Computer Vision algorithms.<br>
-I care about code quality, effieicient model architecture and reliable model deployment.
+I care about code quality, effiecient model architecture and reliable model deployment.
 
 
 <p>I also like to swim and jog as much as i can.</p>
