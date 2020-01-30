@@ -35,3 +35,6 @@ I care about code quality, effieicient model architecture and reliable model dep
 		Emotion Detection from Facial Expressions Using Haar Cascade Face Detection and mini-Xceoption
 		<a href="https://elaaf.github.io/archives/FaceEmotion_mini-Xception.pdf">[PDF]</a></li>
 </ul>
+
+### Want more detail ?
+You can learn more about me by taking a look at my <a href="https://elaaf.github.io/archives/elaaf_shuja_resume.pdf">resume</a>.
