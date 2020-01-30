@@ -27,6 +27,11 @@ I care about code quality, effieicient model architecture and reliable model dep
 ### Projects
 
 <ul>
-	<li><a href="https://elaaf.github.io/archives/GenderSwap_CycleGANs.pdf">GenderSwap Unsupervised Image to Image Translation using Attention Guided Cycle GANS</a></li>
-	<li><a href="https://elaaf.github.io/archives/FaceEmotion_mini-Xception.pdf">Emotion Detection from Facial Expressions Using Haar Cascade Face Detection and mini-Xceoption</a></li>
+	<li>
+		GenderSwap Unsupervised Image to Image Translation using Attention Guided Cycle GANS
+		<a href="https://elaaf.github.io/archives/GenderSwap_CycleGANs.pdf">[PDF]</a>
+	</li>
+	<li>
+		Emotion Detection from Facial Expressions Using Haar Cascade Face Detection and mini-Xceoption
+		<a href="https://elaaf.github.io/archives/FaceEmotion_mini-Xception.pdf">[PDF]</a></li>
 </ul>
