@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to hire me !
+subtitle: 
 ---
 
 Hi there, my name is Mirza Elaaf Shuja a Data Scientist passionate about the industrial applications of Machine Learning and Artificial Intelligence.<br><br>
