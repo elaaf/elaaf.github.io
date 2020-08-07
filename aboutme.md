@@ -4,18 +4,16 @@ title: About me
 subtitle:
 ---
 
-I am a twenty-something STEM graduate, pursuing a Masters Degree in Computer Sciences. I absolutely LOVE solving hard problems and am in a perpetual state of learning. You may read ahead to read more about me :)
+I am a twenty-something STEM graduate, pursuing a Masters Degree in Computer Sciences. I absolutely LOVE solving hard problems and believe in perpetual learning.
 
 
 ## Personal
-
-- I have a great sense of humor (or atleast i think so)
+- I have a great sense of humor :D
 - I like to run **alot** !
 - I am madly in love with swimming
 
+
 ## Professional
-
-
 - I have worked as a Software Engineer writing elegant C++ firmware code for embedded IOT devices.
 
 
@@ -41,5 +39,6 @@ Some of my Masters' research projects:
 [[PDF]](https://elaaf.github.io/archives/FaceEmotion_mini-Xception.pdf)
 
 
-### Want to know more, right this way ?
-You may learn more about me from my resume [resume](./archives/elaaf_shuja_resume.pdf) or visit my socials down below.
+
+### Want to know more, right this way...
+You may find more about me from my [resume](./archives/elaaf_shuja_resume.pdf) or visit my socials down below.
