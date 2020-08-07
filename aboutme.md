@@ -1,40 +1,45 @@
 ---
 layout: page
 title: About me
-subtitle: Hi ! I am Elaaf Shuja.
+subtitle:
 ---
+
+I am a twenty-something STEM graduate, pursuing a Masters Degree in Computer Sciences. I absolutely LOVE solving hard problems and am in a perpetual state of learning. You may read ahead to read more about me :)
+
 
 ## Personal
 
-- I have a great sense of humor :)
+- I have a great sense of humor (or atleast i think so)
 - I like to run **alot** !
 - I am madly in love with swimming
-- I am inquisitive about how everything from quarks to quasars works
 
 ## Professional
 
-- I have experience working as a **Machine Learning Engineer** in training and deploying Machine Learning/Deep Learning models.
-    <br><br>
-- Machine Learning techniques that i am familiar with:
-    - Regression, Classification, Clustering, Hypothesis Testing, Recommender Systems, Deep Learning (CNNs, RNN, LSTM), Image Segmentation, Object Detection, Reinforcement Learning, Unsupervised Adversarial Learning Methods (GANs, CycleGANs).
-    <br><br>
+
+- I have worked as a Software Engineer writing elegant C++ firmware code for embedded IOT devices.
+
+
+- I am currently working as Software Engineer focusing on Machine Learning and Date Engineering.
+
+
+- I am familiar with nearly every Machine Learning algorithm/technique out there. There are too many to list so I will mention a few techniques.
+    - Regression, Classification, Clustering, Recommender Systems, Deep Learning (CNN, LSTM), Image Segmentation, Object Detection, Reinforcement Learning, Unsupervised Adversarial Learning Methods (CycleGANs)
+
+
 - My Programming Skills:
     - Python ( Tensorflow, Pytorch, OpenCV, NLTK, Numpy.. )
     - C/C++
     - SQL
-    - Apache Ecosystem ( Hadoop, Hive, Spark, Hbase )
-    - GCP ( BigQuery, AI Platform ).
-    <br><br>
-- I have experience working as a Firmware Engineer on Embedded systems and IOT devices.
 
 
 ## Research
 Some of my Masters' research projects:
+- Textual Misinformation and User Behaviour Analysis in semi-closed social networks (WhatsApp)
 - GenderSwap: Unsupervised Image to Image Translation using Attention Guided Cycle GANS
 [[PDF]](https://elaaf.github.io/archives/GenderSwap_CycleGANs.pdf)
 - Emotion Detection from Facial Expressions Using Haar Cascade Face Detection and mini-Xception
 [[PDF]](https://elaaf.github.io/archives/FaceEmotion_mini-Xception.pdf)
 
 
-### Want more details ?
-You can learn more about me by taking a look at my [resume](./archives/elaaf_shuja_resume.pdf).
+### Want to know more, right this way ?
+You may learn more about me from my resume [resume](./archives/elaaf_shuja_resume.pdf) or visit my socials down below.
