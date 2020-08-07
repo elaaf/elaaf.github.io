@@ -21,7 +21,7 @@ I am a twenty-something STEM graduate, pursuing a Masters Degree in Computer Sci
 
 
 - I am familiar with nearly every Machine Learning algorithm/technique out there. There are too many to list so I will mention a few techniques.
-    - Regression, Classification, Clustering, Recommender Systems, Deep Learning (CNN, LSTM), Image Segmentation, Object Detection, Reinforcement Learning, Unsupervised Adversarial Learning Methods (CycleGANs)
+    - Regression, Classification, Clustering, Recommender Systems, Deep Learning (CNN, LSTM), Image Segmentation, Object Detection, Reinforcement Learning, Unsupervised Adversarial Learning Methods (CycleGANs).
 
 
 - My Programming Skills:
