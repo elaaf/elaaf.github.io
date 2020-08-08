@@ -17,11 +17,12 @@ I am a twenty-something STEM graduate, pursuing a Masters Degree in Computer Sci
 - I have worked as a Software Engineer writing elegant C++ firmware code for embedded IOT devices.
 
 
-- I am currently working as Software Engineer focusing on Machine Learning and Date Engineering.
+- I am currently working as Software Engineer focusing on Machine Learning and Data Engineering.
 
 
 - I am familiar with nearly every Machine Learning algorithm/technique out there. There are too many to list so I will mention a few techniques.
     - Regression, Classification, Clustering, Recommender Systems, Deep Learning (CNN, LSTM), Image Segmentation, Object Detection, Reinforcement Learning, Unsupervised Adversarial Learning Methods (CycleGANs).
+
 
 
 - My Programming Skills:
