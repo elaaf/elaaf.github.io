@@ -15,11 +15,19 @@ I am a twenty-something STEM graduate, working in Big Data and Machine Learning.
 
 # 👨‍💻 Professional
 
-#### Elaaf is currently working as a Data Engineer @ [KEYRUS](https://keyrus.be)
-#### Previously, Elaaf has worked in Big Data and Machine Learning @ [ADDO AI](https://addo.ai)
-#### Elaaf has a Bachelors in Electrical Engineering and a Masters in Data Sciences [GoogleScholar](https://scholar.google.com/citations?user=1AEP05sAAAAJ&hl=en)
+- Elaaf is currently working as a Data Engineer @ [KEYRUS](https://keyrus.be)
+- Previously, Elaaf has worked in Big Data and Machine Learning @ [ADDO AI](https://addo.ai)
+- Elaaf has a Bachelors in Electrical Engineering and a Masters in Data Sciences [GoogleScholar](https://scholar.google.com/citations?user=1AEP05sAAAAJ&hl=en)
 <br><br>
 
+# 👨‍🔬 Research
+Some of my Masters research projects:
+- Textual Misinformation and User Behaviour Analysis in semi-closed social network i.e. WhatsApp <i>(Accepted as a full-paper at ASONAM 2020)</i> [[PDF]](https://arxiv.org/pdf/2011.09145.pdf)
+- GenderSwap: Unsupervised Image to Image Translation using Attention Guided Cycle GANS
+[[PDF]](https://elaaf.github.io/archives/GenderSwap_CycleGANs.pdf)
+- Emotion Detection from Facial Expressions Using Haar Cascade Face Detection and mini-Xception
+[[PDF]](https://elaaf.github.io/archives/FaceEmotion_mini-Xception.pdf)
+<br><br>
 
 # 💻 Tools and Technologies
 Some tools and languages that I have worked with:
@@ -38,18 +46,8 @@ Some tools and languages that I have worked with:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-<br><br>
-
-# 👨‍🔬 Research
-Some of my Masters' research projects:
-- Textual Misinformation and User Behaviour Analysis in semi-closed social network i.e. WhatsApp <i>(Accepted as a full-paper at ASONAM 2020)</i> [[PDF]](https://arxiv.org/pdf/2011.09145.pdf)
-- GenderSwap: Unsupervised Image to Image Translation using Attention Guided Cycle GANS
-[[PDF]](https://elaaf.github.io/archives/GenderSwap_CycleGANs.pdf)
-- Emotion Detection from Facial Expressions Using Haar Cascade Face Detection and mini-Xception
-[[PDF]](https://elaaf.github.io/archives/FaceEmotion_mini-Xception.pdf)
 <br><br>
 
 # 📫 Reach Me At 
