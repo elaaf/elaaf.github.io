@@ -17,24 +17,25 @@
 title: Elaaf Shuja
 
 # Short description of your site
-description: Website and Blog
+description: 
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume: "https://elaaf.github.io/archives/elaaf_shuja_resume.pdf"
+  My Resume: "https://elaaf.github.io/archives/elaaf_shuja_resume.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/dp.jpg"
+avatar: "/img/dp.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+# title-img: "/img/dp.png"
 
 # --- Background colour/image options --- #
+navbar-img: "/img/header.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
@@ -70,15 +71,15 @@ social-network-links:
   email: "elaaf.shuja@gmail.com"
   linkedin: elaaf
   github: elaaf
-  facebook: elaaf.shuja
   instagram: elaafshuja
+  twitter: elaafshuja
 
 
 
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
@@ -86,9 +87,9 @@ share-links-active:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: false
+  twitter: true
   google-plus: false
   github: true
   reddit: false
